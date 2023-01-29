@@ -107,3 +107,9 @@ dist
 .package.json
 
 .package-lock.json
+
+#ENV File
+.env
+
+#JSON Database
+tests/

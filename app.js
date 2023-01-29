@@ -149,8 +149,8 @@ client.on('message', (channel, tags, message, self) => {
                 break;
             }
 
-            if (msg.includes('ZIN TONTERIAS') || msg.includes('zin tonterias')) {
-                client.say(channel, `Zin Tonterias eh!! @${tags.username}`);
+            if (msg.includes('ZIN TONTERIA') || msg.includes('zin tonteria')) {
+                client.say(channel, `Zin Tonteria eh!! @${tags.username}`);
                 break;
             }
 	    
